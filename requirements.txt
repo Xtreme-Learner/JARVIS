@@ -1,0 +1,10 @@
+SpeechRecognition
+wolframalpha
+pyjokes
+pywhatkit
+keyboard
+playsound
+gtts
+PyPDF2
+pywikihow
+notifypy
